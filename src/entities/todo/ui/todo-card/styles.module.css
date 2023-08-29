@@ -1,0 +1,12 @@
+.todo {
+    background: aliceblue;
+    padding: 15px;
+    border-radius: 15px;
+
+    height: 80px;
+}
+
+.todo > p {
+    font-size: 20px;
+    text-transform: capitalize;
+}
